@@ -1,0 +1,8 @@
+.stat {
+    color: black;
+    text-shadow: 1px rgb(209, 137, 111, 0.5);
+}
+
+.stat_item {
+    text-shadow: 2px 2px rgb(209, 137, 111, 0.5);
+}

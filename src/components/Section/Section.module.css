@@ -1,0 +1,7 @@
+.section {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    font-weight: 500;
+    text-shadow: 1px 1px rgb(209, 137, 111, 0.5);
+    margin-top: 32px;
+}
